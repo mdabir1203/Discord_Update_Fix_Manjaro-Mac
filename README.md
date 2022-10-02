@@ -17,11 +17,8 @@ Here I will show you the Picture --->>>
 --->> By Default it is in :
          Manjaro(Arch): /opt/discord  whereas it's showing in /bin/discord
          
-        ![image](https://user-images.githubusercontent.com/66947064/193478965-cde372c7-2f06-4c19-a16b-23bd3bd76481.png)
-        
-        Mac:
-        
-        Linux(Debian): 
+  ![image](https://user-images.githubusercontent.com/66947064/193478965-cde372c7-2f06-4c19-a16b-23bd3bd76481.png)
+         
 
 -->> Next Go to the directory of resources to find the file "build_info.json" 
 
@@ -33,7 +30,7 @@ Here I will show you the Picture --->>>
      
     I used here VIM. When you open the file **build_info.json** you will find it like below:
     
-    ![image](https://user-images.githubusercontent.com/66947064/193479184-1e369607-c152-4281-bacd-8e167244776c.png)
+  ![image](https://user-images.githubusercontent.com/66947064/193479184-1e369607-c152-4281-bacd-8e167244776c.png)
     
  -->> Now you have to change the line ``` "version": "0.0.XX" ``` to the latest version. To do that . Change XX to 
       whatever the latest version it is. Normally when you initially face the problem it will show you which version it wants to 
