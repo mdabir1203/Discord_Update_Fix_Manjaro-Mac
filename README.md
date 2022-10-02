@@ -4,9 +4,9 @@
 Discord doesn't update manually in Manjaro and Arch Linux. It makes a annoying display to download the update but it doesn't work. So found a workaround from the forum
 exploiting the build_json file
 
-Here I will show you the Picture later --->>>
+Here I will show you the Picture --->>>
 
-
+![image](https://user-images.githubusercontent.com/66947064/193479708-78f67da3-7b6e-4eb7-a44f-f64eb000cd6f.png)
 
 
 ## Solution
@@ -51,9 +51,12 @@ Here I will show you the Picture later --->>>
 
 # Next Plan :
 
-a )   Make a bash  script to automate this -->> Already made a small version for it. Need some revise and fix for the sed access deny.
+a )   Make a bash  script to automate this -->> Already made a small version for it. Need some revise and fix for the sed access deny. \
 b )   Maybe a Video / Animation soon 
 
 
+Check the original post: https://forum.manjaro.org/t/how-can-i-update-discord/103040
+
 Anybody who wants to contribute in troubleshooting and fixing small problems please let me know. Contribute anyhow and make people lives
 easier !!!
+
